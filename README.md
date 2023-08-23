@@ -8,9 +8,10 @@ Hola, soy un Ingeniero Mecánico Electricista, Magíster y Doctor en Ciencia con
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cwvillanuevam&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![cwvillanuevam's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwvillanuevam&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true)](https://github.com/cwvillanuevam/github-readme-stats)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=cwvillanuevam&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cwvillanuevam&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cwvillanuevam&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cwvillanuevam&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cwvillanuevam&theme=nord&no-frame=false&no-bg=true&margin-w=4)
