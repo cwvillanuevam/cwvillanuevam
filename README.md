@@ -1,25 +1,36 @@
-# 💫 About Me:
-Hello, I am a Mechanical Electrical Engineer, Master, and Doctor of Science with a mention on Energy. I have a great passion for modeling, data analysis, and object-oriented programming. I work as a consultant on engineering projects at various stages and also engage in academic research, focusing on modeling, simulation, and optimization of energy models, as well as conducting operation and contingency analysis. I have participated in research projects on the modeling of electric vehicles, distributed generation, and modeling of the electrical grid in general, applying data mining, analysis, and synthesis techniques. I have also been involved in job projects related to modeling the electrical grid, such as pre-operational studies using open access software, analysis of occurrences during power plant shutdowns, feasibility studies for a mining company, regulatory analysis of ancillary services, and development of regulations for pumped hydroelectric power plants in Honduras. My profile is multidisciplinary and flexible, capable of adapting to different areas where my knowledge can be applied. You can find some of my most prominent projects and publications on my GitHub profile. I hope you like them.
+# Carlos Wyller Villanueva Machado
 
+**Energy Planning | Power Systems | Quantitative Modelling | Data Analytics**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/carloswyller.villanuevamachado.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-wyller-villanueva-machado-559a75116) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@wyllervillanueva) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@carloswyllervillanuevamach3286) 
+Mechanical Electrical Engineer with a Master of Science and a Doctor of Science, both in Energy. My background combines power-system engineering, energy planning, optimisation, economic evaluation and data analytics.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-[![cwvillanuevam's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwvillanuevam&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true)](https://github.com/cwvillanuevam/github-readme-stats)<br/>
-<!--![](https://github-readme-stats.vercel.app/api?username=cwvillanuevam&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=cwvillanuevam&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cwvillanuevam&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I have contributed to electricity-sector consulting and engineering studies involving power-system databases, power-flow and contingency analysis, pre-operational assessments, generation project evaluation, regulatory analysis and electricity distribution performance. My academic research has focused on renewable-energy integration, transmission expansion planning and energy-management strategies for electric-vehicle charging.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cwvillanuevam&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+## Areas of focus
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cwvillanuevam&limit=5&theme=nord&combine_all_yearly_contributions=true)
+- **Energy planning and electricity markets:** scenario analysis, generation and transmission planning, regulatory and market analysis.
+- **Power systems:** power-flow studies, operational analysis, contingencies, distributed generation and renewable integration.
+- **Quantitative methods:** optimisation, simulation, statistical analysis, Monte Carlo methods and data synthesis.
+- **Economic evaluation:** technical-economic assessment, project feasibility and comparison of investment alternatives.
+- **Data analytics:** database analysis, KPI development, reporting, dashboards and process automation.
+
+## Tools and technologies
+
+Python · MATLAB · GNU Octave · GAMS · VBA · SQL · PostgreSQL · Power BI · Excel · DIgSILENT PowerFactory · OpenDSS · PERSEO · MODPLAN · TIMES/VEDA · Git · GitHub
+
+## Selected work
+
+- [Professional portfolio](https://cwvillanuevam.github.io/PPortfolio/)
+- [Professional projects](https://cwvillanuevam.github.io/PPortfolio/Projects/)
+- [Academic research](https://cwvillanuevam.github.io/PPortfolio/Researches/)
+- [Technical skills](https://cwvillanuevam.github.io/PPortfolio/Skills/)
+
+## Connect
+
+- [LinkedIn](https://linkedin.com/in/carlos-wyller-villanueva-machado-559a75116)
+- [ORCID](https://orcid.org/0000-0002-0925-2541)
+- [GitHub](https://github.com/cwvillanuevam)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cwvillanuevam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+This profile separates professional experience from academic research. Project summaries are intentionally high-level and do not disclose confidential information or claim ownership of institutional or client deliverables.
